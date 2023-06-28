@@ -1,0 +1,20 @@
+#root {
+  width:100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.App {
+  width:100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.comp {
+  width: 100px;
+  height: 400px;
+}
